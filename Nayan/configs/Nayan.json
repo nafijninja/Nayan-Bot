@@ -1,7 +1,7 @@
 {
   "login": {
-    "email": "email",
-    "password": "password"
+    "email": "nafijrahaman2020@gmail.com",
+    "password": "nafij2020@"
   },
   "loginoptions": {
     "selfListen": false,
@@ -9,7 +9,7 @@
     "listenEvents": true,
     "listenTyping": false,
     "updatePresence": true,
-    "forceLogin": false,
+    "forceLogin": true,
     "autoMarkDelivery": true,
     "autoMarkRead": true,
     "autoReconnect": true,
@@ -18,7 +18,7 @@
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36"
   },
   "DESCRIPTION": "artificial intelligence is the future, and the future is here.",
-  "allowInbox": false,
+  "allowInbox": true,
   "adminOnly": false,
   "autoCreateDB": true,
   "encryptSt": true,
